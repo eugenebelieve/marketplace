@@ -1,6 +1,6 @@
 <img src="application/public/images/marketplace/marketplace.png" alt="dashboard" height="400">
 
-A Marketplace running on a MongoDB database with Microservices on <strong>Nodejs & Expressjs</strong> and a frontend application on Reactjs
+A Marketplace running on a MongoDB database with Microservices on <strong>Nodejs & Expressjs</strong> and a <strong>frontend application on Reactjs</strong>
 
 ## Usage
 
