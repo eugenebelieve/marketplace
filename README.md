@@ -1,5 +1,7 @@
 <img src="application/public/images/marketplace/marketplace.png" alt="dashboard" height="400">
 
+A Marketplace running on a MongoDB database with Microservices on <strong>Nodejs & Expressjs</strong> and a frontend application on Reactjs
+
 ## Usage
 
 ### Env Variables
@@ -7,10 +9,10 @@
 Create or modify the .env file in then root and add the following
 
 ```
-`NODE_ENV = 'development'
-`PORT = '5000'
-`MONGO_URI = "YOUR_MONGODB_URI_HERE"
-`JWT_SECRET = 'random_secret_key'
+NODE_ENV = 'development'
+PORT = '5000'
+MONGO_URI = "YOUR_MONGODB_URI_HERE"
+JWT_SECRET = 'random_secret_key'
 PAYPAL_CLIENT_ID = 'your paypal client id'
 ```
 
