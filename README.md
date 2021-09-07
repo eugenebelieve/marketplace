@@ -1,4 +1,4 @@
-<img src="application/public/images/marketplace/marketplace.png" alt="dashboard" width="838" height="444">
+<img src="application/public/images/marketplace/marketplace.png" alt="dashboard" height="600">
 
 ## Usage
 
