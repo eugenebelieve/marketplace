@@ -2,6 +2,19 @@
 
 A Marketplace running on a <strong>MongoDB Atlas database</strong> with Microservices on <strong>Nodejs & Expressjs</strong> and a <strong>frontend on Reactjs</strong>
 
+# Usage
+
+## Retail Marketplace (MongoDB, NodeJS, ExpressJS, ReactJS & JWT)
+
+### Clone Repositorie
+
+Clone this Repositorie to your local machine
+
+```
+git clone https://github.com/eugenebelieve/marketplace-retail.git
+```
+
+
 ## Usage
 
 ### Env Variables
